@@ -1,0 +1,146 @@
+CYBER SECURITY TASK 01
+
+Name: Stephen J
+
+_______________________________________________
+PART B - PASSWORD SECURITY REVIEW
+_______________________________________________
+
+1. What makes a strong password?
+
+A strong password contains uppercase letters, lowercase letters, numbers, and special characters. It should be at least 12 characters long and difficult to guess.
+
+2. Why should passwords be unique?
+
+Unique passwords prevent attackers from accessing multiple accounts if one password is compromised.
+
+3. What is Multi-Factor Authentication (MFA)?
+
+Multi-Factor Authentication (MFA) is a security method that requires two or more verification methods before granting access to an account.
+
+4. What are the risks of password reuse?
+
+- Multiple accounts can be compromised.
+- Personal information may be stolen.
+- Identity theft can occur.
+- Financial loss may occur.
+
+Password Policy
+
+1. Use at least 12 characters.
+2. Include uppercase and lowercase letters.
+3. Include numbers and special symbols.
+4. Avoid personal information.
+5. Enable MFA whenever possible.
+6. Change passwords regularly.
+7. Never share passwords.
+
+_______________________________________________
+
+PART C - ONLINE ACCOUNT SECURITY REVIEW
+_______________________________________________
+
+
+| Account   | MFA Enabled | Strong Password | Recovery Email |
+|------------|------------|----------------|---------------|
+| Google     | No         | Yes            | Yes           |
+| GitHub     | No         | No             | Yes           |
+| Instagram  | No         | Yes            | Yes           |
+
+Conclusion:
+
+The review shows that recovery methods are configured for all accounts. Multi-Factor Authentication should be enabled to improve security.
+
+_______________________________________________
+PART D - CYBER THREAT RESEARCH
+_______________________________________________
+
+1. Phishing
+
+Definition:
+Phishing is a cyber attack where attackers trick users into revealing sensitive information through fake emails, messages, or websites.
+
+Real-World Example:
+A fake bank email asks users to verify account details.
+
+Prevention Methods:
+- Verify sender information.
+- Avoid suspicious links.
+- Enable MFA.
+- Use antivirus software.
+
+-------------------------------------
+
+2. Malware
+
+Definition:
+Malware is malicious software designed to damage systems or steal information.
+
+Real-World Example:
+Downloading infected software from untrusted websites.
+
+Prevention Methods:
+- Use antivirus software.
+- Avoid unknown downloads.
+- Keep software updated.
+
+--------------------------------------------------
+
+3. Ransomware
+
+Definition:
+Ransomware encrypts files and demands payment to restore access.
+
+Real-World Example:
+The WannaCry ransomware attack affected thousands of systems worldwide.
+
+Prevention Methods:
+- Keep backups.
+- Update software regularly.
+- Avoid suspicious attachments.
+
+--------------------------------------------------
+
+4. Social Engineering
+
+Definition:
+Social engineering manipulates people into revealing confidential information.
+
+Real-World Example:
+An attacker pretends to be technical support and requests login credentials.
+
+Prevention Methods:
+- Verify identities.
+- Never share passwords.
+- Follow security policies.
+
+--------------------------------------------------
+
+5. Data Breach
+
+Definition:
+A data breach occurs when sensitive information is accessed without authorization.
+
+Real-World Example:
+Customer records leaked from a company database.
+
+Prevention Methods:
+- Use strong passwords.
+- Encrypt sensitive data.
+- Enable MFA.
+- Conduct security audits.
+
+_______________________________________________
+PART F - SECURITY REFLECTION
+_______________________________________________
+
+
+Cybersecurity is important for protecting personal and professional information in today's digital world. During this task, I reviewed my device security settings, passwords, and online accounts. I learned that regular software updates, antivirus protection, and firewall settings help reduce cybersecurity risks.
+
+One risk identified in my digital habits was not enabling Multi-Factor Authentication on some accounts. Although strong passwords are used, MFA provides an extra layer of protection against unauthorized access. I also realized the importance of reviewing account recovery options regularly.
+
+To improve my security, I plan to enable MFA on all major accounts, use unique passwords, avoid suspicious links, and perform regular security checks. I will also keep my operating system and applications updated to protect against newly discovered vulnerabilities.
+
+Cybersecurity is important because cyber attacks such as phishing, malware, ransomware, and data breaches can affect anyone. Following good security practices helps protect sensitive information and creates a safer online environment.
+
+This task increased my awareness of cyber threats and taught me the importance of responsible digital behavior and cyber hygiene.
