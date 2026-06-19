@@ -29,19 +29,19 @@ The device security assessment was conducted to verify the security status of th
 
 ### System Information
 
-![System Information](screenshots/system_information.png)
+![System Information](Screenshots/system_info.png)
 
 ### Windows Update
 
-![Windows Update](screenshots/windows_update.png)
+![Windows Update](Screenshots/windows_update.png)
 
 ### Antivirus Status
 
-![Antivirus Status](screenshots/antivirus_status.png)
+![Antivirus Status](Screenshots/antivirus_status.png)
 
 ### Firewall Status
 
-![Firewall Status](screenshots/firewall_status.png)
+![Firewall Status](Screenshots/firewall_status.png)
 
 ---
 
@@ -67,15 +67,15 @@ The following accounts were reviewed:
 
 ### Google Security
 
-![Google Security](screenshots/google_security.png)
+![Google Security](Screenshots/google_security.png)
 
 ### GitHub Security
 
-![GitHub Security](screenshots/github_security.png)
+![GitHub Security](Screenshots/github_security.png)
 
 ### Instagram Security
 
-![Instagram Security](screenshots/instagram_security.png)
+![Instagram Security](Screenshots/instagram_security.png)
 
 Additional analysis and findings are available in:
 
@@ -103,7 +103,7 @@ Definitions, real-world examples, and prevention methods are included in:
 
 ### Strong Password Awareness Poster
 
-![Awareness Poster](poster/awareness_poster.png)
+![Awareness Poster](Poster/awareness_poster.png)
 
 ---
 
