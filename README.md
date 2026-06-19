@@ -75,7 +75,7 @@ The following accounts were reviewed:
 
 ### Instagram Security
 
-![Instagram Security](Screenshots/instagram_security.png)
+![Instagram Security](Screenshots/instagram_security_1.png)
 
 Additional analysis and findings are available in:
 
